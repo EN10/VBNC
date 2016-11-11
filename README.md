@@ -10,8 +10,8 @@ vbnc Module1.vb
 Run:    
 mono Module1.exe    
 
-Run Script: 
+Run Script:     
 Setup:  
 chmod 777 run.sh    
-Compile & Run   
+Compile & Run:   
 ./run.sh
