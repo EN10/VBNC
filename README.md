@@ -2,9 +2,9 @@ Visual Basic .Net on Ubuntu
 
 Write VB.Net Online:    
 1. Register on www.edx.org  
-2. Login to cs50.io 
+2. Login to www.cs50.io 
 
-Write the following commands in terminal: 
+Write the following commands in terminal:   
 Click + New Teminal or Alt + T  
 
 Install:    
