@@ -1,6 +1,5 @@
-Visual Basic .Net on Ubuntu     
-
-Write VB.Net Online:    
+Visual Basic .Net Online     
+    
 1. Register on www.edx.org  
 2. Login to www.cs50.io 
 
