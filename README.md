@@ -38,3 +38,5 @@ http://www.mono-project.com/docs/getting-started/install/linux/#debian-ubuntu-an
     echo "deb http://download.mono-project.com/repo/debian wheezy main" | sudo tee /etc/apt/sources.list.d/mono-xamarin.list
     sudo apt-get update
     sudo apt upgrade
+    
+*This seems to be unstable*
