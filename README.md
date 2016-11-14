@@ -39,4 +39,4 @@ http://www.mono-project.com/docs/getting-started/install/linux/#debian-ubuntu-an
     sudo apt-get update
     sudo apt upgrade
     
-*This seems to be unstable*
+*Upgrading seems to be unstable: can cause issues with sudo and missing packges*
