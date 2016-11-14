@@ -25,7 +25,9 @@ Run:
 Advanced
 -
 Setup:  
+
     chmod 777 run.sh    
     
 Compile & Run:   
+
     ./run.sh
