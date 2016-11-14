@@ -1,8 +1,7 @@
-Visual Basic .Net Online
-=
+#Visual Basic .Net Online#
 
 1. Register on www.edx.org  
-2. Login to cs50.io 
+2. Login to http://cs50.io 
 
 Open Terminal:  
 Click "+" -> New Teminal OR Alt + T     
