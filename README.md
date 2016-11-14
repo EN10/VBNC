@@ -11,20 +11,19 @@ You can use Install, Compile & Run commands
 
 Install (Only Once):
 -
-sudo apt update     
-sudo apt install mono-vbnc      
+    sudo apt update     
+    sudo apt install mono-vbnc      
 
 Compile (Make .exe):    
 -
-vbnc Module1.vb 
+    vbnc Module1.vb 
 
 Run:    
 -
-mono Module1.exe    
+    mono Module1.exe    
 
 **Advanced!**  
-Compile & Run Script:     
 Setup:  
-chmod 777 run.sh    
+    chmod 777 run.sh    
 Compile & Run:   
-./run.sh
+    ./run.sh
