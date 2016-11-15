@@ -1,8 +1,8 @@
-vbnc Module1.vb > compiler
+vbnc module1.vb > compiler
 if cat compiler | grep success
 then 
 clear
-mono Module1.exe
+mono module1.exe
 rm compiler
 else
 cat compiler
