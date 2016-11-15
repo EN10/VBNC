@@ -1,8 +1,10 @@
-error="$(vbnc Module1.vb)"
-if echo $error | grep success
+vbnc Module1.vb > compiler
+if cat compiler | grep success
 then 
 clear
 mono Module1.exe
+rm compiler
 else
-echo $error
+cat compiler
+rm compiler
 fi
