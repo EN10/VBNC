@@ -15,22 +15,22 @@ Install (Only Once):
 
 Compile (Make .exe):    
 -
-    vbnc Module1.vb 
+    vbnc module1.vb 
 
 Run:    
 -
-    mono Module1.exe    
+    mono module1.exe    
 
 Advanced
 -
 Setup:  
 
-   chmod +x
-   sudo mv run /usr/bin/
+    chmod +x
+    sudo mv run /usr/bin/
     
 Compile & Run:   
 
-    ./run.sh
+    run
     
 **Upgrade to Latest Mono 4+:**  
 *Upgrading seems to be unstable: can cause issues with sudo and missing packages*   
