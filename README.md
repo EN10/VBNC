@@ -23,6 +23,7 @@ Run:
 
 Advanced
 -
+*Combine vbnc and mono, compile and execute commands in one*    
 Setup:  
 
     chmod +x
