@@ -25,7 +25,8 @@ Advanced
 -
 Setup:  
 
-    chmod 777 run.sh    
+   chmod +x
+   sudo mv run /usr/bin/
     
 Compile & Run:   
 
