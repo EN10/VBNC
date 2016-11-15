@@ -26,7 +26,7 @@ Advanced
 *Combine vbnc and mono, compile and execute commands in one*    
 Setup:  
 
-    chmod +x
+    chmod +x run
     sudo mv run /usr/bin/
     
 Compile & Run:   
