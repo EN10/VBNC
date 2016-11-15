@@ -27,7 +27,7 @@ Advanced
 Setup:  
 
     chmod +x run
-    sudo mv run /usr/bin/
+    sudo cp run /usr/bin/
     
 Compile & Run:   
 
