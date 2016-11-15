@@ -1,3 +1,4 @@
+#!/bin/bash
 vbnc module1.vb > compiler
 if cat compiler | grep success
 then 
