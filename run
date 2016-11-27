@@ -1,11 +1,11 @@
 #!/bin/bash
-vbnc module1.vb > compiler
-if cat compiler | grep success
+vbnc module1.vb > compilationErrors
+if cat compilationErrors | grep success
 then 
 clear
 mono module1.exe
-rm compiler
+rm compilationErrors
 else
-cat compiler
-rm compiler
+cat compilationErrors
+rm compilationErrors
 fi
