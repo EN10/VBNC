@@ -1,6 +1,8 @@
-# Visual Basic .Net Online #
+# Visual Basic .Net on \*nix #
 
-Run on [macOS](https://github.com/EN10/VBNC/blob/master/macOS.md)   
+## Run on [macOS](https://github.com/EN10/VBNC/blob/master/macOS.md)   
+
+## VBNC Online
 
 1. Register on www.edx.org  
 2. Login to http://cs50.io 
