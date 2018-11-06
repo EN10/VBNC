@@ -1,18 +1,19 @@
 # Visual Basic .Net on macOS #
 
 Install:  
-https://www.mono-project.com/download/stable/#download-mac  
+-
+  https://www.mono-project.com/download/stable/#download-mac  
 
 Open Terminal
 
 Code:
-
-  nano modulename.vb
+-
+    nano modulename.vb
   
 Compile
-
-  vbnc modulename.vb
+-
+    vbnc modulename.vb
   
 Run
-
-  mono modulename.exe
+-
+    mono modulename.exe
